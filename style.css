@@ -1,0 +1,53 @@
+.headingz{
+    background-color: rgb(0, 0, 0);
+    color:blueviolet;
+    font-family:'Courier New', Courier, monospace;
+    width:100%;
+    text-align:center;
+}
+
+.heading2{
+    display:inline;
+}
+
+.Instruction{
+    color:blueviolet;
+    background:black;
+    float:right;
+    border:1px solid blueviolet;
+    border-radius:10px;
+}
+
+.bigImg{
+    width:100%;
+}
+
+#start, #status{
+    background:black;
+    color:blueviolet;
+    border-radius:10px;
+    font-size:22px;
+}
+
+#Kredit-To-Team{
+  background-color:black;
+  color:blueviolet;
+  line-height:2;
+  margin:0px;
+}
+
+.modal-dialog{
+    width:90%;
+}
+
+.instructionimg{
+    display:inline-block;
+    width:45%;
+}
+
+video{
+    background: url("game_console.png");
+    background-size:cover;
+    background-position:center;
+    padding: 25px;
+}
